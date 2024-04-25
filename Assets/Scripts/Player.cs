@@ -13,4 +13,9 @@ public class Player
         movesList.SetValue(move, numberOfMoves);
         numberOfMoves++;
     }
+
+    public Vector3[] GetMoves()
+    {
+        return movesList;
+    }
 }
