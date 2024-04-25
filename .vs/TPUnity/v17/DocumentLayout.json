@@ -3,7 +3,15 @@
   "WorkspaceRootPath": "C:\\Users\\felix\\workspaceunity\\TPUnity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|c:\\users\\felix\\workspaceunity\\tpunity\\assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|C:\\Users\\felix\\workspaceunity\\TPUnity\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|c:\\users\\felix\\workspaceunity\\tpunity\\assets\\scripts\\rotateplaycube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotateplaycube.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|C:\\Users\\felix\\workspaceunity\\TPUnity\\assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,11 +22,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RotatePlayCube.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\RotatePlayCube.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotatePlayCube.cs",
+              "ToolTip": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\RotatePlayCube.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotatePlayCube.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:25:30.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T09:04:02.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "RotateCamera.cs",
               "DocumentMoniker": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\RotateCamera.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\RotateCamera.cs",
@@ -26,8 +60,7 @@
               "RelativeToolTip": "Assets\\Scripts\\RotateCamera.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-25T07:06:55.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-25T07:06:55.433Z"
             }
           ]
         }
