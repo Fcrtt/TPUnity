@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\felix\\workspaceunity\\TPUnity\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|c:\\users\\felix\\workspaceunity\\tpunity\\assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEBF705B-4918-8889-9AB7-9FA964D56F5A}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\rotatecamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RotateCamera.cs",
+              "DocumentMoniker": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\RotateCamera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RotateCamera.cs",
+              "ToolTip": "C:\\Users\\felix\\workspaceunity\\TPUnity\\Assets\\Scripts\\RotateCamera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RotateCamera.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-25T07:06:55.433Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

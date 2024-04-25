@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class RotatePlayCube : MonoBehaviour
@@ -10,7 +8,7 @@ public class RotatePlayCube : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
@@ -22,7 +20,7 @@ public class RotatePlayCube : MonoBehaviour
         }
         if (Input.GetKey(KeyCode.RightArrow))
         {
-            transform.Rotate(- vAxis * speed * Time.deltaTime);
+            transform.Rotate(-vAxis * speed * Time.deltaTime);
         }
     }
 }
